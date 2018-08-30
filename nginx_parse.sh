@@ -1,7 +1,7 @@
 ﻿#!/bin/bash
 
 echo "##########################################################################"
-echo "#   nginx日志分析小工具,作者thinkingbullet,https://github.com/xiucaiwu   #"
+echo "#   nginx日志分析小工具,author:william,https://github.com/xiucaiwu       #"
 echo "#   本工具暂时不支持跨天日志分析,Nginx日志格式为默认格式                 #"
 echo "#   请输入要分析的时段(为空则分析全部日志):                              #"
 echo "#   分析今天3点10分到5点的数据:03:10-05:00 "-"前后没有空格               #"
